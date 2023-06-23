@@ -39,7 +39,7 @@ BE class 3 assignment
 | cuisines | String |
 | pic | String |
 
-**rants**
+**learning**
 
 | Field | Type |
 | ---------- | ------------ |
@@ -58,7 +58,7 @@ On Progress
 
 Typing Still...
 
-*Drafting
+### Drafting
 
 Paper drafting...
 
