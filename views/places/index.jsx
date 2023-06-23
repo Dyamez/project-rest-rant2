@@ -21,17 +21,17 @@ function index (data) {
 };
 
 let places = [{
-  name: 'H-Thai-ML',
-  city: 'Seattle',
-  state: 'WA',
-  cuisines: 'Thai, Pan-Asian',
-  pic: 'http://placekitten.com/250/250'
+  name: 'Jolibee',
+  city: 'Las Vegas',
+  state: 'NV',
+  cuisines: 'Filipino, American',
+  pic: 'https://sa.kapamilya.com/absnews/abscbnnews/media/2015/business/11/02/jollibee-logo.jpg'
 }, {
-  name: 'Coding Cat Cafe',
-  city: 'Phoenix',
-  state: 'AZ',
-  cuisines: 'Coffee, Bakery',
-  pic: 'http://placekitten.com/250/250'
+  name: 'Ichiza Izakaya',
+  city: 'Las Vegas',
+  state: 'NV',
+  cuisines: 'Japanese',
+  pic: 'https://lasvegastoppicks.com/wp-content/uploads/2013/02/003_3-600x400.jpg'
 }]
 
 module.exports = index
