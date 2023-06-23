@@ -1,9 +1,9 @@
 # project-rest-rant2
 BE class 3 assignment
 
-## Usage
+## In Progress
 
-**CSS** Bootstrap Maybe
+**CSS** Bootstrap Maybe, when I become more adept in using it
 
 **Stack:** MongoDB, Express, NodeJS
 
@@ -54,17 +54,17 @@ BE class 3 assignment
 
 On Progress
 
-### Intoduction
+### Introduction
 
 Typing Still...
 
 ### Drafting
 
-Paper drafting...
+Paper & Wireframing drafting...
 
 ### Ideas
 Add-on's
-
+* More Information
 * Commenting
 * Thumbs-Up or Down
 * Dropdown selection
