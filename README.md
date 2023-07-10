@@ -1,9 +1,8 @@
-# project-rest-rant2
-BE class 3 assignment
+# project-rest-rant Part 11
+Part 11: Populating data for star ratings
+BE class assignment
 
-## In Progress
-
-**CSS** Bootstrap Maybe, when I become more adept in using it
+**CSS** Bootstrap 
 
 **Stack:** MongoDB, Express, NodeJS
 
@@ -65,6 +64,4 @@ Paper & Wireframing drafting...
 ### Ideas
 Add-on's
 * More Information
-* Commenting
 * Thumbs-Up or Down
-* Dropdown selection
