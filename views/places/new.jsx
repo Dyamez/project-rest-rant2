@@ -15,8 +15,7 @@ function new_form (data) {
           <main>
             <h1>Add a New Place</h1>
             {message}
-            <form method="POST" action="/places">
-        <div className="row">
+            <form method="POST" action="/places"> 
         <div className="form-group col-sm-6 col-md-4 col-lg-3">
             <label htmlFor="name">Place Name</label>
             <input className="form-control" id="name" name="name" required />
@@ -44,10 +43,9 @@ function new_form (data) {
             className="form-control"
             id="founded"
             name="founded"
-            value={new Date().getFullYear()}/>
+            value={new Date().getFullYear()} />
         </div>
         <input className="btn btn-primary" type="submit" value="Add Place" />
-        </div>
         </form>
         </main>
         </Def>
@@ -55,3 +53,5 @@ function new_form (data) {
 }
 
 module.exports = new_form
+
+//<div className="row"></div>

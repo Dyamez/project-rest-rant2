@@ -1,4 +1,5 @@
-const React = require('react');
+const React = require('react')
+const currentYear = new Date().getFullYear()
 
 function Def (html) {
     return (
