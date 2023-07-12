@@ -1,6 +1,7 @@
 # project-rest-rant Part 11
 Part 11: Populating data for star ratings
 BE class assignment
+by: E.Manansala
 
 **CSS** Bootstrap 
 

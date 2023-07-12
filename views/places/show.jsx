@@ -64,6 +64,7 @@ function show (data) {
         <h3>{data.place.showEstablished()}</h3>
         <h4>Serving {data.place.cuisines}</h4>
         </div>
+        <form>
             <a href={`/places/${data.place.id}/edit`} className="btn btn-warning"> 
             Edit
             </a> {''}
@@ -71,6 +72,7 @@ function show (data) {
             <button type="submit" className="btn btn-danger">
             Delete
             </button>
+            </form>
             </form>
             </div>
             <hr />
