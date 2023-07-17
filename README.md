@@ -1,4 +1,4 @@
-# project-rest-rant Part 11
+# project-rest-rant Part 12
 Part 11: Populating data for star ratings
 BE class assignment
 by: E.Manansala
@@ -49,20 +49,3 @@ by: E.Manansala
 | rating | Number |
 | comment | String |
 | reviewer | String |
-
-### Planning
-
-On Progress
-
-### Introduction
-
-Typing Still...
-
-### Drafting
-
-Paper & Wireframing drafting...
-
-### Ideas
-Add-on's
-* More Information
-* Thumbs-Up or Down
